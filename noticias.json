@@ -1,5 +1,11 @@
 [
     {
+        "title": "Coso",
+        "content": "Hola...",
+        "author": "LDKAKALA",
+        "publish_date": "2026-20-20"
+    },
+    {
         "title": "Tu noticia nueva aquí",
         "content": "El texto de esta noticia nueva.",
         "author": "Dartus el devsito",
