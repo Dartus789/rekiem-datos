@@ -1,20 +1,8 @@
 [
     {
-        "title": "Coso",
-        "content": "Hola...",
-        "author": "LDKAKALA",
-        "publish_date": "2026-20-20"
-    },
-    {
-        "title": "Tu noticia nueva aquí",
-        "content": "El texto de esta noticia nueva.",
-        "author": "Dartus el devsito",
-        "publish_date": "2026-07-21"
-    },
-    {
         "title": "Se abren las puertas del santuario",
         "content": "La cacería ha comenzado...",
-        "author": "Mi poto",
-        "publish_date": "2026-07-20"
+        "author": "Dartus",
+        "publish_date": "2026-07-14"
     }
 ]
